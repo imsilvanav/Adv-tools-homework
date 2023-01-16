@@ -32,10 +32,22 @@ h3 {
 
   h2 {
     font-size: 36px;
+    text-align: center;
   }
 
   h3 {
     font-size: 22px;
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  .project-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
   }
 }
 
